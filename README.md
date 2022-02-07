@@ -13,4 +13,4 @@ http://lernantino.github.io/run-buddy/
 ## Contribusion
 Made with ❤️ by Jennifer Jennings
 
-### &copy2019 Run Buddy, Inc
+### ©️2019 Run Buddy, Inc
